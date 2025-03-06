@@ -1,10 +1,10 @@
 # Swing-G300-Week7
-Run and Gun Unreal Project
+Run and Gun Unreal Project <br/>
 
 # Attribution
 
-Audio: 
-  https://pixabay.com/sound-effects/enemy-detected-103347/
-  https://pixabay.com/sound-effects/monster-death-grunt-131480/
-  https://pixabay.com/sound-effects/magic-death-85573/
+Audio:  <br/>
+  https://pixabay.com/sound-effects/enemy-detected-103347/ <br/>
+  https://pixabay.com/sound-effects/monster-death-grunt-131480/ <br/>
+  https://pixabay.com/sound-effects/magic-death-85573/ <br/>
 Audio License: https://pixabay.com/service/license-summary/
